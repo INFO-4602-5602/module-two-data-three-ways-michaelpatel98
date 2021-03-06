@@ -1,7 +1,7 @@
 # Assignment Two: Data Three Ways
 *Due 3.5 by 11:59pm*
 
-*submission is under the file name: ifYouWantAHouseStopBuyingAvocados.html
+*submission is under the file name: <a href="ifYouWantAHouseStopBuyingAvocados.html">ifYouWantAHouseStopBuyingAvocados.html</a>
 
 Visualizations offer different lenses on our data. As we saw when working with misleading visualizations, showing the same data in different ways can generate very different conclusions. This assignment will give you hands-on experience creating visualizations that let you view your data from different angles.
 
