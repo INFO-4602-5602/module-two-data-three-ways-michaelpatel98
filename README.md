@@ -1,6 +1,8 @@
 # Assignment Two: Data Three Ways
 *Due 3.5 by 11:59pm*
 
+*submission is under the file name: ifYouWantAHouseStopBuyingAvocados.html
+
 Visualizations offer different lenses on our data. As we saw when working with misleading visualizations, showing the same data in different ways can generate very different conclusions. This assignment will give you hands-on experience creating visualizations that let you view your data from different angles.
 
 For this assignment, you will find a dataset that you find interesting and explore a central question about that data using three different visualizations. Note that you can either choose a question and visualizations on your own or remix an existing data story (see Extra Credit below for guidelines on the remix option). Make sure you cite your original data source(s) somewhere in your document. 
